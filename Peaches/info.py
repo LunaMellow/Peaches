@@ -9,4 +9,3 @@ listener1 = mouse.Listener(
 listener1.start()
 sleep(30)
 listener1.stop()
-
